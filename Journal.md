@@ -1,4 +1,14 @@
-### **03.02**
+
+### **05.02**
+
+For my project idea, Papa's Pizzeria, I am thinkng of recreating the final part of the game mechanism, which is the rating and eating. 
+
+This is all purely hypothetical, as I am not sure which part of my sketch & mechanism(s) are doable, but so far I am thinking of adding a rotating ticket system from the top, suspended by string or whatever tool is appropiate. It will go around from left to right in a cycle, and the mechanism I am thinking of using for this is [this particular one](https://507movements.com/mm_001.html) . Belpw, the cashier, stood behid the till, will raise his arm, which will be connected to a string that will lead the pizza box to open. Once it is opened, the customer will 'tip', which will be indicated by a green LED lighting up, and perhaps even triggering a cash noise sound. In addition, there will be a five-star rating system, which will light up according to the number of stars the customer wants to rate the pizza. The process of tipping and rating could be randomised, so that each time the button is pressed and the sceene is played again, if the star rating is below three stars, then there is no tip and a sad sound is triggered, if it is above then the tip jar goes green. This scene ends when the pizza box will close by the cashier's arm moving down.
+
+Aplohies for my sketch, I'm not an artist haha
+
+### *![IMG_7966](https://github.com/user-attachments/assets/e4ab80e4-0e3f-49b5-af3e-5642d2c1afe9)
+*03.02**
 
 I wasn’t able to inspect the project over the weekend because it was no longer present in the hallway - I’m not too sure if it got taken down and taken elsewhere.
 GAME IDEAS
