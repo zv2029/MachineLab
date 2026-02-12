@@ -5,6 +5,7 @@ When I began working on my idea,I realised that I didn’t have the circular, me
 
 One mistake I had made was not completing my circuit properly, so my final GND wasn’t present, which actually led to a lot of short-circuiting.
 
+For some reason, I am unable to attach a video of my work, so I have uploaded it [here](https://github.com/zv2029/MachineLab/blob/7b2a7c8c2ccbdab0a986b49a4c354e2e36c6da0f/sketch_jan29a/Conveyor.mov)
 
 <img width="657" height="862" alt="arduino setup" src="https://github.com/user-attachments/assets/d6e96a15-be67-4e8c-9dd3-68c3eabf89ae" />
 
