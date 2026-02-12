@@ -1,3 +1,12 @@
+### **12.02**
+I wanted to expand on my idea about having a conveyor belt with a bunch of tickets attached, to imitate some functionalities of the Papa Games, where at the top of the screen, the ticket slides from left to right.
+
+When I began working on my idea,I realised that I didn’t have the circular, mental component that is attached to the motor, so I spent a lot of time attempting to figure out a way I could attach my string to the spinning motor without the plate (i ended up using double sided tape)
+
+One mistake I had made was not completing my circuit properly, so my final GND wasn’t present, which actually led to a lot of short-circuiting.
+
+
+<img width="657" height="862" alt="arduino setup" src="https://github.com/user-attachments/assets/d6e96a15-be67-4e8c-9dd3-68c3eabf89ae" />
 
 ### **05.02**
 
